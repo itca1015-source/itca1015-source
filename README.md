@@ -6,17 +6,6 @@ I recently completed my M.A. in Statistics at Columbia University, and I like pr
 
 ## Featured Projects
 
-### [Mathnasium Automation](https://github.com/itca1015-source/mathnasium-automation)
-
-Operations automation for Mathnasium tutoring center workflows.
-
-- Built Python tools to automate daily instructor assignment and seating-chart generation
-- Designed constraint-based scheduling logic around instructor availability, student skill levels, capacity limits, seating conflicts, and explicit preferences
-- Integrated Google Sheets workflows so staff could keep using familiar operating tools
-- Generated formatted Excel seating charts for multi-center room layouts
-
-**Stack:** Python, Google Sheets API, SQLite, openpyxl
-
 ### [x-agent-swarm](https://github.com/itca1015-source/x-agent-swarm)
 
 AI growth automation work from Solvea, built for running product-specific X accounts across multiple startup products.
@@ -27,6 +16,17 @@ AI growth automation work from Solvea, built for running product-specific X acco
 - Added safety rules to prevent unsupported product claims, spammy replies, and off-brand engagement
 
 **Stack:** Python, browser automation, LLM-assisted drafting, approval workflows, JSON configs, growth analytics
+
+### [Mathnasium Automation](https://github.com/itca1015-source/mathnasium-automation)
+
+Operations automation for Mathnasium tutoring center workflows.
+
+- Built Python tools to automate daily instructor assignment and seating-chart generation
+- Designed constraint-based scheduling logic around instructor availability, student skill levels, capacity limits, seating conflicts, and explicit preferences
+- Integrated Google Sheets workflows so staff could keep using familiar operating tools
+- Generated formatted Excel seating charts for multi-center room layouts
+
+**Stack:** Python, Google Sheets API, SQLite, openpyxl
 
 ## Background
 
